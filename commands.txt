@@ -1,3 +1,4 @@
+php artisan migrate  
 php artisan make:model Job -mf // m model f factory
 php artisan make:controller MyJobController --resource
 php artisan migrate:refresh --seed
